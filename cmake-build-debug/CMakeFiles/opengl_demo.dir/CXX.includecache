@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/spiros/cpp/opengl_demo/main.cpp
+iostream
+-
+glad/glad.h
+-
+GLFW/glfw3.h
+-
+

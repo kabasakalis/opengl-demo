@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/opengl_demo.dir/glad.c.o CMakeFiles/opengl_demo.dir/main.cpp.o  -o opengl_demo -lGL -lGLU -lglfw3 -lX11 -lXxf86vm -lXrandr -lpthread -lXi -ldl -lXinerama -lXcursor -lassimp 
