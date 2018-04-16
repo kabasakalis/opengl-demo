@@ -1,3 +1,0 @@
-/home/spiros/cpp/opengl_demo/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/spiros/cpp/opengl_demo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/spiros/cpp/opengl_demo/cmake-build-debug/CMakeFiles/opengl_demo.dir
