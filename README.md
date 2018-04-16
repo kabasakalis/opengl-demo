@@ -1,6 +1,6 @@
-#OpenGL demo
+# OpenGL demo
 
-### Set up for Linux (Ubuntu)
+## Set up for Linux (Ubuntu)
 
 
 ###  Prerequisites, dependencies.
@@ -27,18 +27,18 @@
 
 `cd glad  && cmake ./  && make &&  sudo cp -a include /usr/local/`
 
-####Install GLM
+#### Install GLM
 `git clone https://github.com/g-truc/glm.git`
 
 `cd glm && cmake ./  && make && sudo make install`
 
-### Install STB
+#### Install STB
 `git clone https://github.com/nothings/stb.git`
 
 `cd stb && cp -a stb* /usr/local/include/`
 
 
-####Install Assimp
+#### Install Assimp
 `git clone https://github.com/assimp/assimp.git`
 
 `cd assimp && cmake ./  && make  && sudo make install` 
